@@ -1,0 +1,5 @@
+This a test message.
+The objective of this page 
+is to check whether the 
+merge is working properly
+or not
