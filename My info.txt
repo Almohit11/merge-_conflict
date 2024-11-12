@@ -1,5 +1,5 @@
-This a test message.
-The objective of this page 
-is to check whether the 
-merge is working properly
-or not
+1. This a test message.
+2.The objective of this page 
+3. is to check whether the 
+4. merge is working properly
+5. in the present location
